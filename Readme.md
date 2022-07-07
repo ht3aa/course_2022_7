@@ -1,7 +1,3 @@
-# Course repo
+# Lesson 1
 
-contains all lectures explained in the course that started in 2022/7/6;
-
-## Note
-
-browser the branches to see the lectures code.
+In this lesson we discuss how front end web developer looks like.
