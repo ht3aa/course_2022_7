@@ -17,7 +17,7 @@ form.addEventListener("submit", function (e) {
     result = firstNumber - secondNumber;
   } else if (operation === "/") {
     result = firstNumber / secondNumber;
-  } else {
+  } else if (operation === "*") {
     result = firstNumber * secondNumber;
   }
 
